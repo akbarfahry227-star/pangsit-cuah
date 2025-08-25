@@ -82,7 +82,7 @@ Situs katalog dan pemesanan online untuk brand makanan **Pangsit Cuahh**, dengan
 
 3. Build untuk production:
 
-   ```bash
+   ```
    npm run build
    ```
 
