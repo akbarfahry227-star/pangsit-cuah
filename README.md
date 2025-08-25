@@ -70,7 +70,7 @@ Situs katalog dan pemesanan online untuk brand makanan **Pangsit Cuahh**, dengan
 1. Install dependencies:
    ```bash
    npm install
-````
+```
 
 2. Jalankan development server:
 
